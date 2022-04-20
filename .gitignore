@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/EvolveEndP.log
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Logs/EvolveEndP.log
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry.bin
+Saved/Autosaves/PackageRestoreData.json
+Saved/AutoScreenshot.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/EvolveEndP.log
